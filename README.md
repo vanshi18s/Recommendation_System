@@ -1,5 +1,3 @@
-# Recommendation_System
-
 # Recommender System Project
 
 This project implements a memory-based collaborative filtering recommender system, specifically an **item-based collaborative filtering** approach, to suggest apps to users based on their usage patterns.
